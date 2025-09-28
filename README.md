@@ -42,9 +42,11 @@ Sử dụng Visual Studio 2022<br>
     - Tạo project window forms
      <img width="1250" height="822" alt="image" src="https://github.com/user-attachments/assets/98ee360d-4f8f-4893-a1dc-2da83a2987f5" />
 
-    - tạo referance như với consoleapp
+       - tạo referance như với consoleapp
     <img width="1433" height="908" alt="image" src="https://github.com/user-attachments/assets/71eb89a2-41c8-4103-bc74-f35567a4ba7f" />
 
-    - Design với toolbox
+       - Design với toolbox
 
      <img width="917" height="802" alt="image" src="https://github.com/user-attachments/assets/205f957f-df20-419a-adb6-e902a09e0ab9" />
+
+     
