@@ -1,0 +1,6 @@
+C:\Users\pc\source\repos\maytinh\bin\Debug\maytinh.dll
+C:\Users\pc\source\repos\maytinh\bin\Debug\maytinh.pdb
+C:\Users\pc\source\repos\maytinh\obj\Debug\maytinh.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\maytinh\obj\Debug\maytinh.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\maytinh\obj\Debug\maytinh.dll
+C:\Users\pc\source\repos\maytinh\obj\Debug\maytinh.pdb
