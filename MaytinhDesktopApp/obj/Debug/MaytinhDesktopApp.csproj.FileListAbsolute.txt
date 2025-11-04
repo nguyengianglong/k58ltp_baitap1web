@@ -1,0 +1,5 @@
+C:\Users\pc\source\repos\MaytinhDesktopApp\obj\Debug\MaytinhDesktopApp.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\MaytinhDesktopApp\obj\Debug\MayTinhDesktopApp.Form1.resources
+C:\Users\pc\source\repos\MaytinhDesktopApp\obj\Debug\MaytinhDesktopApp.Properties.Resources.resources
+C:\Users\pc\source\repos\MaytinhDesktopApp\obj\Debug\MaytinhDesktopApp.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\MaytinhDesktopApp\obj\Debug\MaytinhDesktopApp.csproj.CoreCompileInputs.cache
